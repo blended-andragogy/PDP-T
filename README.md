@@ -17,11 +17,11 @@ PDP-T aims to provide a collegial environment for early career academics to expl
 
 
 ## My Teaching Philosophy
-`Teach people, not content.`
+`"Teach people, not content."`
 ## My Teaching Framework
-`Andragogy - methods and practices of teaching adult learners; adult education`
+`Andragogy: methods and practices of teaching adult learners; adult education`
 ## My Teaching Enabler
-`Blended learning`
+`Blended learning: blend classroom with work and technology`
 
 
 [![](https://cdn.elearningindustry.com/wp-content/uploads/2013/05/adult-learning-theory-andragogy.jpg)](https://elearningindustry.com/the-adult-learning-theory-andragogy-of-malcolm-knowles "The adult learning theory andragogy of Malcolm Knowles")
@@ -66,7 +66,7 @@ Malcolm Knowles' andrology theory can be stated with six assumptions related to 
 ## Topic 6: Prepare for Continuing Professional Development
 > **This section discusses objective reflection upon his or her own training/teaching practice to engage in continuing professional development for improvement.**
 
----
+
 # References
 
 - [The Adult Learning Theory - Andragogy - of Malcolm Knowles](http://web.cortland.edu/frieda/id/IDtheories/42.html?utm_campaign=elearningindustry.com&utm_source=%2Fthe-adult-learning-theory-andragogy-of-malcolm-knowles&utm_medium=link)
