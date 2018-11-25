@@ -47,23 +47,22 @@ Malcolm Knowles' andrology theory can be stated with six assumptions related to 
 6. **Motivation**: Adults respond better to internal versus external motivators.
 
 
----
 ## Topic 2: Design a Learning Experience
 > **This section discusses designing lesson plans for a short learning experience applying the understanding of adult learning principles, active learning qualities and instructional methods.**
 
----
+
 ## Topic 3: Prepare and Facilitate a Learning Experience
 > **This section discusses preparing and facilitating an active learning experience for learners.**
 
----
+
 ## Topic 4: Interpret the Singapore Workforce Skills Qualifications System
 > **This section interprets the Singapore Workforce Skills Qualifications System and a set of National Competency Standards and apply them in a learning and development context.**
 
----
+
 ## Topic 5: Assess Competence
 > **This section discusses preparing and conducting a competency-based assessment to assess competence.**
 
----
+
 ## Topic 6: Prepare for Continuing Professional Development
 > **This section discusses objective reflection upon his or her own training/teaching practice to engage in continuing professional development for improvement.**
 
