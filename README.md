@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/blended-andragogy/PDP-T/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**[Professional Development Programme - Teaching (PDP-T)]("http://www.cdtl.nus.edu.sg/pdp/" "PDP-T")** 
+PDP-T aims to provide a collegial environment for early career academics to explore and reflect critically on their teaching practice with the aim of improving the quality of their students' learning.
+**[Centre for Development of Teaching & Learning]("http://www.cdtl.nus.edu.sg/" "CDTL")** 
+**[National University of Singapore]("http://nus.edu.sg/" "NUS")** 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+<img align="right" src='http://www.aisp.sg/images/APP/ISS.jpg' width=50%>
 
-### Markdown
+**PDP-T Participant: [GU Zhan (Sam)](https://www.iss.nus.edu.sg/about-us/staff/detail/201/GU%20Zhan "GU Zhan (Sam)")**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![alt text](https://www.iss.nus.edu.sg/images/default-source/About-Us/7.6.1-teaching-staff/sam-website.tmb-.png "Let's check Sam' profile page")](https://www.iss.nus.edu.sg/about-us/staff/detail/201/GU%20Zhan)
 
-```markdown
-Syntax highlighted code block
+**zhan.gu@nus.edu.sg**
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## My teaching philosophy
+	"Teach people, not content."
+## My teaching framework
+	Andragogy - methods and practices of teaching adult learners; adult education
+## My teaching enabler
+	Blended learning
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+[![](https://cdn.elearningindustry.com/wp-content/uploads/2013/05/adult-learning-theory-andragogy.jpg)](https://elearningindustry.com/the-adult-learning-theory-andragogy-of-malcolm-knowles "The adult learning theory andragogy of Malcolm Knowles")
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Table of Contents**
 
-### Jekyll Themes
+[TOCM]
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blended-andragogy/PDP-T/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[TOC]
 
-### Support or Contact
+# My PDP-T Learning Journey & Teaching Portfolio
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Topic 1: Apply Adult Learning Principles in Training
+> **This section  discusses application of adult learning principles in training delivery.**
+
+Malcolm Knowles' andrology theory can be stated with six assumptions related to the motivation of adult learning:
+1. **Need to know**: Adults need to know the reason for learning something.
+2. **Foundation**: Experience (including error) provides the basis for learning activities.
+3. **Self-concept**: Adults need to be responsible for their decisions on education; involvement in the planning and evaluation of their instruction.
+4. **Readiness**: Adults are most interested in learning subjects having immediate relevance to their work and/or personal lives.
+5. **Orientation**: Adult learning is problem-centered rather than content-oriented.
+6. **Motivation**: Adults respond better to internal versus external motivators.
+
+
+---
+## Topic 2: Design a Learning Experience
+> **This section discusses designing lesson plans for a short learning experience applying the understanding of adult learning principles, active learning qualities and instructional methods.**
+
+---
+## Topic 3: Prepare and Facilitate a Learning Experience
+> **This section discusses preparing and facilitating an active learning experience for learners.**
+
+---
+## Topic 4: Interpret the Singapore Workforce Skills Qualifications System
+> **This section interprets the Singapore Workforce Skills Qualifications System and a set of National Competency Standards and apply them in a learning and development context.**
+
+---
+## Topic 5: Assess Competence
+> **This section discusses preparing and conducting a competency-based assessment to assess competence.**
+
+---
+## Topic 6: Prepare for Continuing Professional Development
+> **This section discusses objective reflection upon his or her own training/teaching practice to engage in continuing professional development for improvement.**
+
+---
+# References
+
+- [The Adult Learning Theory - Andragogy - of Malcolm Knowles](https://elearningindustry.com/the-adult-learning-theory-andragogy-of-malcolm-knowles "the-adult-learning-theory-andragogy-of-malcolm-knowles")
+- [Blending Classroom With Work And Technology]("https://elearningindustry.com/the-adult-learning-theory-andragogy-of-malcolm-knowles" "Blending Classroom With Work And Technology")
+- [Pedagogical Content Knowledge: Definition & Explanation]("https://study.com/academy/lesson/pedagogical-content-knowledge-definition-lesson-quiz.html")
+
+---
