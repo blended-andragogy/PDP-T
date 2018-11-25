@@ -15,11 +15,11 @@ PDP-T aims to provide a collegial environment for early career academics to expl
 
 
 ## My teaching philosophy
-	"Teach people, not content."
+`Teach people, not content.`
 ## My teaching framework
-	Andragogy - methods and practices of teaching adult learners; adult education
+`Andragogy - methods and practices of teaching adult learners; adult education`
 ## My teaching enabler
-	Blended learning
+`Blended learning`
 
 
 [![](https://cdn.elearningindustry.com/wp-content/uploads/2013/05/adult-learning-theory-andragogy.jpg)](https://elearningindustry.com/the-adult-learning-theory-andragogy-of-malcolm-knowles "The adult learning theory andragogy of Malcolm Knowles")
@@ -68,8 +68,13 @@ Malcolm Knowles' andrology theory can be stated with six assumptions related to 
 ---
 # References
 
-- [The Adult Learning Theory - Andragogy - of Malcolm Knowles](https://elearningindustry.com/the-adult-learning-theory-andragogy-of-malcolm-knowles "the-adult-learning-theory-andragogy-of-malcolm-knowles")
-- [Blending Classroom With Work And Technology]("https://elearningindustry.com/the-adult-learning-theory-andragogy-of-malcolm-knowles" "Blending Classroom With Work And Technology")
-- [Pedagogical Content Knowledge: Definition & Explanation]("https://study.com/academy/lesson/pedagogical-content-knowledge-definition-lesson-quiz.html")
+- The Adult Learning Theory - Andragogy - of Malcolm Knowles
+http://web.cortland.edu/frieda/id/IDtheories/42.html?utm_campaign=elearningindustry.com&utm_source=%2Fthe-adult-learning-theory-andragogy-of-malcolm-knowles&utm_medium=link
 
----
+
+- Blending Classroom With Work And Technology
+https://www.ial.edu.sg/content/dam/projects/tms/ial/Find-resources/Learning-resource-and-tools/blended-learning-guide/Blended%20classroom%20with%20work%20and%20technology%20(IAL)%201st%20edition%20(1.2).pdf
+
+- Pedagogical Content Knowledge: Definition & Explanation
+https://study.com/academy/lesson/pedagogical-content-knowledge-definition-lesson-quiz.html
+
