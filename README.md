@@ -3,9 +3,9 @@
 
 PDP-T aims to provide a collegial environment for early career academics to explore and reflect critically on their teaching practice with the aim of improving the quality of their students' learning.
 
-**[Centre for Development of Teaching & Learning]("http://www.cdtl.nus.edu.sg/" "CDTL")** 
+**[Centre for Development of Teaching & Learning (CDTL)]("http://www.cdtl.nus.edu.sg/" "CDTL")** 
 
-**[National University of Singapore]("http://nus.edu.sg/" "NUS")** 
+**[National University of Singapore (NUS)]("http://nus.edu.sg/" "NUS")** 
 
 ---
 <img align="right" src='http://www.aisp.sg/images/APP/ISS.jpg' width=50%>
