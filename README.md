@@ -17,11 +17,11 @@ PDP-T aims to provide a collegial environment for early career academics to expl
 **zhan.gu@nus.edu.sg**
 
 
-## My teaching philosophy
+## My Teaching Philosophy
 `Teach people, not content.`
-## My teaching framework
+## My Teaching Framework
 `Andragogy - methods and practices of teaching adult learners; adult education`
-## My teaching enabler
+## My Teaching Enabler
 `Blended learning`
 
 
@@ -81,3 +81,6 @@ https://www.ial.edu.sg/content/dam/projects/tms/ial/Find-resources/Learning-reso
 - Pedagogical Content Knowledge: Definition & Explanation
 https://study.com/academy/lesson/pedagogical-content-knowledge-definition-lesson-quiz.html
 
+---
+
+[![](http://www.aisp.sg/images/APP/ISS.jpg)](https://www.iss.nus.edu.sg/ "Institute of Systems Science, National University of Singapore")
