@@ -1,11 +1,10 @@
-
-**[Professional Development Programme - Teaching (PDP-T)]("http://www.cdtl.nus.edu.sg/pdp/" "PDP-T")** 
+**[Professional Development Programme - Teaching (PDP-T)](http://www.cdtl.nus.edu.sg/pdp/ "PDP-T")** 
 
 PDP-T aims to provide a collegial environment for early career academics to explore and reflect critically on their teaching practice with the aim of improving the quality of their students' learning.
 
-**[Centre for Development of Teaching & Learning (CDTL)]("http://www.cdtl.nus.edu.sg/" "CDTL")** 
+**[Centre for Development of Teaching & Learning (CDTL)](http://www.cdtl.nus.edu.sg/ "CDTL")** 
 
-**[National University of Singapore (NUS)]("http://nus.edu.sg/" "NUS")** 
+**[National University of Singapore (NUS)](http://nus.edu.sg/ "NUS")** 
 
 ---
 <img align="right" src='http://www.aisp.sg/images/APP/ISS.jpg' width=50%>
@@ -71,15 +70,9 @@ Malcolm Knowles' andrology theory can be stated with six assumptions related to 
 ---
 # References
 
-- The Adult Learning Theory - Andragogy - of Malcolm Knowles
-http://web.cortland.edu/frieda/id/IDtheories/42.html?utm_campaign=elearningindustry.com&utm_source=%2Fthe-adult-learning-theory-andragogy-of-malcolm-knowles&utm_medium=link
-
-
-- Blending Classroom With Work And Technology
-https://www.ial.edu.sg/content/dam/projects/tms/ial/Find-resources/Learning-resource-and-tools/blended-learning-guide/Blended%20classroom%20with%20work%20and%20technology%20(IAL)%201st%20edition%20(1.2).pdf
-
-- Pedagogical Content Knowledge: Definition & Explanation
-https://study.com/academy/lesson/pedagogical-content-knowledge-definition-lesson-quiz.html
+- [The Adult Learning Theory - Andragogy - of Malcolm Knowles](http://web.cortland.edu/frieda/id/IDtheories/42.html?utm_campaign=elearningindustry.com&utm_source=%2Fthe-adult-learning-theory-andragogy-of-malcolm-knowles&utm_medium=link)
+- [Blending Classroom With Work And Technology](https://www.ial.edu.sg/find-resources/learning-resources-and-tools/blend-classroom.html)
+- [Pedagogical Content Knowledge: Definition & Explanation](https://study.com/academy/lesson/pedagogical-content-knowledge-definition-lesson-quiz.html)
 
 ---
 
