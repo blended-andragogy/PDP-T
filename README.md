@@ -148,7 +148,6 @@ So, back to our first scenario with Mrs. Johnson. If she had combined her knowle
 
 - [The Adult Learning Theory - Andragogy - of Malcolm Knowles](http://web.cortland.edu/frieda/id/IDtheories/42.html?utm_campaign=elearningindustry.com&utm_source=%2Fthe-adult-learning-theory-andragogy-of-malcolm-knowles&utm_medium=link)
 - [Blending Classroom With Work And Technology](https://www.ial.edu.sg/find-resources/learning-resources-and-tools/blend-classroom.html)
-- [Pedagogical Content Knowledge: Definition & Explanation](https://study.com/academy/lesson/pedagogical-content-knowledge-definition-lesson-quiz.html)
 
 ---
 
