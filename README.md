@@ -37,7 +37,7 @@ PDP-T aims to provide a collegial environment for early career academics to expl
 
 [![](references/misc/PDP-T-calendar.jpg)](http://www.cdtl.nus.edu.sg/pdp/ "PDP-T calendar")
 
-## 1. September 2018 09 24 (Monday) - Understand How Students Learn
+## Session 1: September 2018 09 24 (Monday) Understand How Students Learn
 
 ### Importance of Prior Knowledge
 
@@ -55,7 +55,7 @@ In their book **"How Learning Works: Seven Research-Based Principles for Smarter
 - [Importance of Prior Knowledge to Learning](https://news.illinoisstate.edu/2012/01/importance-of-prior-knowledge-to-learning/)
 
 
-## 2. November 2018 11 27 (Wednesday) - Uncovering Pedagogical Content Knowledge
+## Session 2: November 2018 11 27 (Wednesday) Uncovering Pedagogical Content Knowledge
 
 ### Why Pedagogical Content Knowledge?
 
@@ -73,35 +73,35 @@ So, back to our first scenario with Mrs. Johnson. If she had combined her knowle
 - [Pedagogical Content Knowledge: Definition & Explanation](https://study.com/academy/lesson/pedagogical-content-knowledge-definition-lesson-quiz.html)
 
 
-## 3. December 2018 12 10 (Monday) - Enhancing Learning Using Technology
+## Session 3: December 2018 12 10 (Monday) Enhancing Learning Using Technology
 
 ### Work in Progress...
 
 ### References
 
 
-## 4. January 2019 01 11 (Friday) - Preparing for Peer Classroom Observation
+## Session 4: January 2019 01 11 (Friday) Preparing for Peer Classroom Observation
 
 ### Work in Progress...
 
 ### References
 
 
-## 5. March 2019 03 01 (Friday) - Improving Assessment Tasks
+## Session 5: March 2019 03 01 (Friday) Improving Assessment Tasks
 
 ### Work in Progress...
 
 ### References
 
 
-## 6. April 2019 04 26 (Friday) - Reflecting on Students' Learning, Connecting with Teaching Practice
+## Session 6: April 2019 04 26 (Friday) Reflecting on Students' Learning, Connecting with Teaching Practice
 
 ### Work in Progress...
 
 ### References
 
 
-## 7. May 2019 05 24 (Friday) - Developing A Course Portfolio
+## Session 7: May 2019 05 24 (Friday) Developing A Course Portfolio
 
 ### Work in Progress...
 
