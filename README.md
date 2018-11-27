@@ -114,7 +114,8 @@ So, back to our first scenario with Mrs. Johnson. If she had combined her knowle
 ## Topic 1: Apply Adult Learning Principles in Training
 > **This section discusses application of adult learning principles in training delivery.**
 
-**1.1 Malcolm Knowles' andrology theory can be stated with six assumptions related to the motivation of adult learning:**
+### Malcolm Knowles' andrology theory
+This theory can be stated with six assumptions related to the motivation of adult learning:
 
 - **Need to know**: Adults need to know the reason for learning something.
 - **Foundation**: Experience (including error) provides the basis for learning activities.
