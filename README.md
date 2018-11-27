@@ -35,7 +35,7 @@ PDP-T aims to provide a collegial environment for early career academics to expl
 
 # My PDP-T Learning Journey & Course Portfolio
 
-[![](references/misc/PDP-T calendar.jpg)](http://www.cdtl.nus.edu.sg/pdp/ "PDP-T calendar")
+[![](references/misc/PDP-T-calendar.jpg)](http://www.cdtl.nus.edu.sg/pdp/ "PDP-T calendar")
 
 ## September 2018 09 24 (Monday) - Understand How Students Learn
 
