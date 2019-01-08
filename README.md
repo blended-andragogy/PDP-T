@@ -75,9 +75,32 @@ So, back to our first scenario with Mrs. Johnson. If she had combined her knowle
 
 ## Session 3: December 2018 12 10 (Monday) Enhancing Learning Using Technology
 
-### Work in Progress...
+### Frameworks of Enhancing Learning Using Technology
+
+** 1. SAMR: Intersection of Technology & Pedagogy**
+
+![](references/misc/SAMR1.png)
+
+Popularized by Dr. Ruben R. Puentedura, SAMR is a model for infusing technology into the learning experiences. It enables multimedia content creation and communication with the world community. It has four layers: 
+
+* Redefiniton `Transforming the learning task (higher) layer`
+* Modification `Transforming the learning task (higher) layer`
+* Augmentation `Enhancing the learning task (lower) layer`
+* Substituion `Enhancing the learning task (lower) layer`
+
+**2. TPACK: Technological Pedagogical Content Knowledge**
+
+![](references/misc/TPACK1.png)
+
+TPACK, or Technological Pedagogical Content Knowledge, is a model that helps teachers consider where their strengths and weaknesses lie in their knowledge of content, pedagogy, and technology and how these areas work together for innovative teaching and learning.
 
 ### References
+
+- [What is the SAMR Model and what does it look like in schools?](https://www.youtube.com/watch?v=SC5ARwUkVQg)
+ [![video](http://img.youtube.com/vi/SC5ARwUkVQg/0.jpg)](https://youtu.be/SC5ARwUkVQg "")
+ 
+- [What is the TPACK Model?](https://www.youtube.com/watch?v=yMQiHJsePOM)
+ [![video](http://img.youtube.com/vi/yMQiHJsePOM/0.jpg)](https://youtu.be/yMQiHJsePOM "")
 
 
 ## Session 4: January 2019 01 11 (Friday) Preparing for Peer Classroom Observation
