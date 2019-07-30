@@ -16,24 +16,24 @@ PDP-T aims to provide a collegial environment for early career academics to expl
 **zhan.gu@nus.edu.sg**
 
 
-## My Teaching Philosophy
-`"Teach people, not content."`
-
-## My Teaching Framework
-`Andragogy: methods and practices of teaching adult learners; adult education`
-
-## My Teaching Enabler
-`Blended learning: blend classroom with work and technology`
-
-
-[![](https://cdn.elearningindustry.com/wp-content/uploads/2013/05/adult-learning-theory-andragogy.jpg)](https://elearningindustry.com/the-adult-learning-theory-andragogy-of-malcolm-knowles "The adult learning theory andragogy of Malcolm Knowles")
-
 
 **Table of Contents**
 
 [TOCM]
 
 [TOC]
+
+
+## My Teaching Philosophy
+`"Teach people, not content."`
+
+## My Teaching Framework
+`Andragogy: methods and practices of teaching adult learners; adult education`
+
+[![](https://cdn.elearningindustry.com/wp-content/uploads/2013/05/adult-learning-theory-andragogy.jpg)](https://elearningindustry.com/the-adult-learning-theory-andragogy-of-malcolm-knowles "The adult learning theory andragogy of Malcolm Knowles")
+
+## My Teaching Enabler
+`Blended learning: blend classroom with work and technology`
 
 
 # My Course/Teaching Portfolio
@@ -161,16 +161,54 @@ TPACK, or Technological Pedagogical Content Knowledge, is a model that helps tea
 
 ## Session 4: January 2019 02 23 (Saturday) Preparing for Peer Classroom Observation
 
-### Work in Progress...
+### Purpose of Peer Observation
+The peer observation component will provide you with feedback on your teaching. It consists of a structured formative peer review of your teaching, including a class visit as well as pre- and post-observation discussions with your peers. The ultimate aim is to enable ongoing improvement of early career academics (ECA) teaching and learning practices under supportive conditions.
+
+This document serves as a guide for participating in the peer observation component. 
+
+### Intended Learning Outcomes
+By the end of this component, you should be able to:
+
+* articulate your beliefs and actions that frame your daily teaching practice;
+* apply to your teaching what you have learnt in PDP-T Core; and,
+* review your teaching on the basis of feedback from peers to improve your future practice.
+
+
+### Strategy to conduct Peer Observation
+Peer partnership is the strategy adopted in the peer observation segment of the PDP-T programme. Peer partnership is a reciprocal process in which an academic staff observes a partner’s teaching and learning process and then provides supportive and constructive feedback (Bell, 2005).  The main idea is that peers will learn from each other as they take turns to observe each other’s teaching practice. The old adage that “to teach is to learn twice over”  holds true and many advantages arise from the use of peer partnership. Some of these benefits include:
+
+* sharing of good practice;
+* promoting critical reflection of teaching practices;
+* learning and engagement in innovation of teaching and learning environments; and, 
+* promoting scholarship of teaching as it encourages teaching skills and knowledge to be shared. 
+
+To carry out the peer observation process, two colleagues are to agree to act as the observer (person conducting the observation) and the observee (person to be observed). The observation takes place followed by a reversal of the roles later. In addition, participants are to recognise that the insights gained and comments shared are to be kept between the observer and observee, unless otherwise discussed when setting up their personal observation protocol.
+
 
 ### References
+
+- Bell, M. (2005). Peer observation partnerships in higher education. Milperra, NSW: HERDSA.
+- Joubert, J. (1899). A selection from his thoughts. From chapter XVIII, Of Education.
 
 
 ## Session 5: March 2019 03 08 (Friday) Improving Assessment Tasks
 
-### Work in Progress...
+[![](references/misc/s5 key_assessments)](http://www.cdtl.nus.edu.sg/pdp/ "key principles of assessment")
+
+### Improving Learning through Assessment
+
+Factors associated with improving learning through assessment are: 
+
+1. The provision of effective feedback to students  
+2. The active involvement of students in their own learning  
+3. Adjusting teaching to take account of the results of assessment  
+4. A recognition of the profound influence assessment has on the motivation and self-esteem of students, both of which are crucial influences on learning  
+5. The need for students to be able to assess themselves and understand how to improve  
+
 
 ### References
+
+- Black, P, and D. Wiliam (1998) Assessment and Classroom Learning, Education: Principles, Policy and Practice, 5(1), 7–74. 
 
 
 ## Session 6: April 2019 04 26 (Friday) Reflecting on Students' Learning, Connecting with Teaching Practice
