@@ -22,10 +22,11 @@ PDP-T aims to provide a collegial environment for early career academics to expl
 ## My Teaching Framework
 `Andragogy: methods and practices of teaching adult learners; adult education`
 
-[![](https://cdn.elearningindustry.com/wp-content/uploads/2013/05/adult-learning-theory-andragogy.jpg)](https://elearningindustry.com/the-adult-learning-theory-andragogy-of-malcolm-knowles "The adult learning theory andragogy of Malcolm Knowles")
-
 ## My Teaching Enabler
 `Blended learning: blend classroom with work and technology`
+
+
+[![](https://cdn.elearningindustry.com/wp-content/uploads/2013/05/adult-learning-theory-andragogy.jpg)](https://elearningindustry.com/the-adult-learning-theory-andragogy-of-malcolm-knowles "The adult learning theory andragogy of Malcolm Knowles")
 
 
 **Table of Contents**
