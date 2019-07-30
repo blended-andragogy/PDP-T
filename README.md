@@ -213,10 +213,15 @@ Factors associated with improving learning through assessment are:
 
 ## Session 6: April 2019 04 26 (Friday) Reflecting on Students' Learning, Connecting with Teaching Practice
 
-### Work in Progress...
+###Summary of Barbara Larrivee's Transforming Teaching Practice: becoming the critically refective teacher
+
+There are many pathways to becoming a refective practitioner and each teacher must find his or her own path. Any path a teacher chooses must involve a willingness to be an active participant in a perpetual growth process requiring ongoing critical refection on classroom practices. The journey involves infusing personal beliefs and values into a professional identity, resulting in developing a deliberate code of conduct. Critical re ̄ection is not only a way of approaching teaching - it is a way of life. The more teachers explore, the more they discover. The more they question, the more they access new realms of possibility.
+
+The path to developing as a critically refective teacher cannot be prescribed with an intervention formula. The route cannot be preplanned - it must be lived. Teaching in today’s classroom is a challenge of great magnitude. Meeting the challenge calls for a teacher to resist establishing a classroom culture of control and become a refective practitioner, continuously engaging in critical refection, consequently remaining fuid in the dynamic environment of the classroom.
 
 ### References
 
+- Barbara Larrivee (2000) Transforming Teaching Practice: becoming the critically refective teacher,  Refective Practice, Vol. 1, No. 3
 
 ## Session 7: May 2019 05 30 (Thursday) Developing A Course Portfolio
 
