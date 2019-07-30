@@ -238,7 +238,7 @@ Together, they will help you understand and interpret your profile. Keep in mind
 
 ### References
 
-- [TPI - Teaching Perspectives Inventory Summaries](http://www.teachingperspectives.com/tpi_html/tpi_summaries.htm)
+- [TPI - Teaching Perspectives Inventory Summaries](http://www.teachingperspectives.com/tpi/)
 
 
 ---
