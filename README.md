@@ -220,10 +220,25 @@ Factors associated with improving learning through assessment are:
 
 ## Session 7: May 2019 05 30 (Thursday) Developing A Course Portfolio
 
-### Work in Progress...
+### Summary of Five Perspectives on 'Good Teaching'
+
+Each of the paragraphs below represents a different perspective on 'good teaching'.
+Together, they will help you understand and interpret your profile. Keep in mind that these five are not mutually exclusive perspectives. In our research involving hundreds of teachers, the vast majority hold one or two dominant perspectives. Many hold an additional 'back-up' perspective that is high, although not dominant. This combination of dominant and back-up perspectives allows teachers to accommodate changes in context, content, and learners. Common sense requires that no one can operate from all five simultaneously, since they represent contrasting and sometimes competing views of teaching.
+
+** 1. Transmission**: Effective teaching requires a substantial commitment to the content or subject matter.
+
+**  2. Apprenticeship**: Effective teaching is a process of socializing students into new behavioral norms and ways of working.
+
+**  3. Developmental**: Effective teaching must be planned and conducted "from the learner's point of view".
+
+**  4. Nurturing**: Effective teaching assumes that long- term, hard, persistent effort to achieve comes from the heart, not the head.
+
+**  5. Social Reform**: Effective teaching seeks to change society in substantive ways.
+
 
 ### References
 
+- [TPI - Teaching Perspectives Inventory Summaries](http://www.teachingperspectives.com/tpi_html/tpi_summaries.htm)
 
 
 ---
