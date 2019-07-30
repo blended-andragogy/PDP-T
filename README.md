@@ -39,8 +39,8 @@ PDP-T aims to provide a collegial environment for early career academics to expl
 # My Course/Teaching Portfolio
 [ PDP-T Submission ]
 
-## Part 1: Teaching Philosopy
-> **A reflective 'teaching statement' describing your personal teaching philosopy, strategies, and objectives**
+## Part 1: Teaching Philosophy
+> **A reflective 'teaching statement' describing your personal teaching philosophy, strategies, and objectives**
 
 ### Part 1.1 Core beliefs about teaching and learning
 * What are your beliefs about teaching and your role as a teacher? 
@@ -136,10 +136,10 @@ So, back to our first scenario with Mrs. Johnson. If she had combined her knowle
 
 Popularized by Dr. Ruben R. Puentedura, SAMR is a model for infusing technology into the learning experiences. It enables multimedia content creation and communication with the world community. It has four layers: 
 
-* Redefiniton `Transforming the learning task (higher) layer`
+* Redefinition `Transforming the learning task (higher) layer`
 * Modification `Transforming the learning task (higher) layer`
 * Augmentation `Enhancing the learning task (lower) layer`
-* Substituion `Enhancing the learning task (lower) layer`
+* Substitution `Enhancing the learning task (lower) layer`
 
 
 #### Framework 2: TPACK - Technological Pedagogical Content Knowledge
@@ -213,15 +213,15 @@ Factors associated with improving learning through assessment are:
 
 ## Session 6: April 2019 04 26 (Friday) Reflecting on Students' Learning, Connecting with Teaching Practice
 
-###Summary of Barbara Larrivee's Transforming Teaching Practice: becoming the critically refective teacher
+### Summary of Barbara Larrivee's Transforming Teaching Practice: becoming the critically reflective teacher
 
-There are many pathways to becoming a refective practitioner and each teacher must find his or her own path. Any path a teacher chooses must involve a willingness to be an active participant in a perpetual growth process requiring ongoing critical refection on classroom practices. The journey involves infusing personal beliefs and values into a professional identity, resulting in developing a deliberate code of conduct. Critical re ̄ection is not only a way of approaching teaching - it is a way of life. The more teachers explore, the more they discover. The more they question, the more they access new realms of possibility.
+There are many pathways to becoming a reflective practitioner and each teacher must find his or her own path. Any path a teacher chooses must involve a willingness to be an active participant in a perpetual growth process requiring ongoing critical refection on classroom practices. The journey involves infusing personal beliefs and values into a professional identity, resulting in developing a deliberate code of conduct. Critical reflection is not only a way of approaching teaching - it is a way of life. The more teachers explore, the more they discover. The more they question, the more they access new realms of possibility.
 
-The path to developing as a critically refective teacher cannot be prescribed with an intervention formula. The route cannot be preplanned - it must be lived. Teaching in today’s classroom is a challenge of great magnitude. Meeting the challenge calls for a teacher to resist establishing a classroom culture of control and become a refective practitioner, continuously engaging in critical refection, consequently remaining fuid in the dynamic environment of the classroom.
+The path to developing as a critically reflective teacher cannot be prescribed with an intervention formula. The route cannot be preplanned - it must be lived. Teaching in today’s classroom is a challenge of great magnitude. Meeting the challenge calls for a teacher to resist establishing a classroom culture of control and become a reflective practitioner, continuously engaging in critical refection, consequently remaining fluid in the dynamic environment of the classroom.
 
 ### References
 
-- Barbara Larrivee (2000) Transforming Teaching Practice: becoming the critically refective teacher,  Refective Practice, Vol. 1, No. 3
+- Barbara Larrivee (2000) Transforming Teaching Practice: becoming the critically reflective teacher,  reflective Practice, Vol. 1, No. 3
 
 ## Session 7: May 2019 05 30 (Thursday) Developing A Course Portfolio
 
@@ -252,7 +252,7 @@ Together, they will help you understand and interpret your profile. Keep in mind
 ## Topic 1: Apply Adult Learning Principles in Training
 > **This section discusses application of adult learning principles in training delivery.**
 
-### Malcolm Knowles' andrology theory
+### Malcolm Knowles' andragogy theory
 This theory can be stated with six assumptions related to the motivation of adult learning:
 
 - **Need to know**: Adults need to know the reason for learning something.
