@@ -16,13 +16,6 @@ PDP-T aims to provide a collegial environment for early career academics to expl
 **zhan.gu@nus.edu.sg**
 
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
-
 ## My Teaching Philosophy
 `"Teach people, not content."`
 
@@ -33,6 +26,13 @@ PDP-T aims to provide a collegial environment for early career academics to expl
 
 ## My Teaching Enabler
 `Blended learning: blend classroom with work and technology`
+
+
+**Table of Contents**
+
+[TOCM]
+
+[TOC]
 
 
 # My Course/Teaching Portfolio
