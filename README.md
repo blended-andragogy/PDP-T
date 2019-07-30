@@ -290,4 +290,4 @@ This theory can be stated with six assumptions related to the motivation of adul
 
 ---
 
-[![](http://www.aisp.sg/images/APP/ISS.jpg)](https://www.iss.nus.edu.sg/ "Institute of Systems Science, National University of Singapore")
+[![](https://mysurvey.nus.edu.sg/EFM/surveys/1413211586/21d35e1f/img001.jpg)](https://www.iss.nus.edu.sg/ "Institute of Systems Science, National University of Singapore")
