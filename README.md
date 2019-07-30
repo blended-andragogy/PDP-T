@@ -193,7 +193,7 @@ To carry out the peer observation process, two colleagues are to agree to act as
 
 ## Session 5: March 2019 03 08 (Friday) Improving Assessment Tasks
 
-[![](references/misc/s5 key_assessments.png)](http://www.cdtl.nus.edu.sg/pdp/ "key principles of assessment")
+[![](references/misc/s5_key_assessments.png)](http://www.cdtl.nus.edu.sg/pdp/ "key principles of assessment")
 
 ### Improving Learning through Assessment
 
