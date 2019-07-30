@@ -1,4 +1,4 @@
-﻿**[Professional Development Programme - Teaching (PDP-T)](http://www.cdtl.nus.edu.sg/pdp/ "PDP-T")** 
+**[Professional Development Programme - Teaching (PDP-T)](http://www.cdtl.nus.edu.sg/pdp/ "PDP-T")** 
 
 PDP-T aims to provide a collegial environment for early career academics to explore and reflect critically on their teaching practice with the aim of improving the quality of their students' learning.
 
@@ -7,7 +7,7 @@ PDP-T aims to provide a collegial environment for early career academics to expl
 **[National University of Singapore (NUS)](http://nus.edu.sg/ "NUS")** 
 
 ---
-<img align="right" src='http://www.aisp.sg/images/APP/ISS.jpg' width=50%>
+<img align="right" src='https://mysurvey.nus.edu.sg/EFM/surveys/1413211586/21d35e1f/img001.jpg' width=50%>
 
 **PDP-T Participant: [GU Zhan (Sam)](https://www.iss.nus.edu.sg/about-us/staff/detail/201/GU%20Zhan "GU Zhan (Sam)")**
 
@@ -16,24 +16,78 @@ PDP-T aims to provide a collegial environment for early career academics to expl
 **zhan.gu@nus.edu.sg**
 
 
-## My Teaching Philosophy
-`"Teach people, not content."`
-## My Teaching Framework
-`Andragogy: methods and practices of teaching adult learners; adult education`
-## My Teaching Enabler
-`Blended learning: blend classroom with work and technology`
-
-
-[![](https://cdn.elearningindustry.com/wp-content/uploads/2013/05/adult-learning-theory-andragogy.jpg)](https://elearningindustry.com/the-adult-learning-theory-andragogy-of-malcolm-knowles "The adult learning theory andragogy of Malcolm Knowles")
-
-
 **Table of Contents**
 
 [TOCM]
 
 [TOC]
 
-# My PDP-T Learning Journey & Course Portfolio
+
+## My Teaching Philosophy
+`"Teach people, not content."`
+
+## My Teaching Framework
+`Andragogy: methods and practices of teaching adult learners; adult education`
+
+[![](https://cdn.elearningindustry.com/wp-content/uploads/2013/05/adult-learning-theory-andragogy.jpg)](https://elearningindustry.com/the-adult-learning-theory-andragogy-of-malcolm-knowles "The adult learning theory andragogy of Malcolm Knowles")
+
+## My Teaching Enabler
+`Blended learning: blend classroom with work and technology`
+
+
+# My Course/Teaching Portfolio
+[ PDP-T Submission ]
+
+## Part 1: Teaching Philosopy
+> **A reflective 'teaching statement' describing your personal teaching philosopy, strategies, and objectives**
+
+### Part 1.1 Core beliefs about teaching and learning
+* What are your beliefs about teaching and your role as a teacher? 
+* How do this belief develop or change in your journey as a teacher?
+* What are your beliefs about learning in the context of your discipline?
+
+### Part 1.2 Goals for student learning
+* What are you preparing students for (i.e. knowledge, skills, values, and attitudes)?
+* What are your beliefs about how student learning in your field occurs?
+
+### Part 1.3 Strategies/methods to enact the goals
+* How do you implement these ideas about teaching and learning in the 
+classroom?
+
+### Part 1.4 Assessment of influence/impact 
+* How do you know students are learning what you want them to learn through your teaching methods/strategies? 
+
+
+## Part 2: Reflective Case Narratives
+> **Approaches to teaching and learning**
+
+E.g. 1 or 2 reflective case narratives on a critical incident or teaching episode which
+* Provides an illustration of how you teach; or
+* Discuss a critical incident or teaching episode sharing growth as a teacher
+
+### Part 2.1
+* Why did you choose the particular approach to teaching?
+
+### Part 2.2
+* What are some valuable sources of information about your teaching on students learning (peer observations, student outcomes, examples of student work, relevant course material, mid-semester feedback, etc.)?
+
+### Part 2.3
+* How do you plan to continue to improve your future teaching practice?
+
+
+## Part 3: Appendices
+> **Include one or more of the following to provide evidence for your teaching philosophy and case narratives.**
+
+* TPI and ATI reports
+* Relevant blogs to support narratives
+* Peer observation forms (completed forms for pre/in/post)
+* Selected survey feedback from students
+* Selected student work
+* Any other relevant evidence
+
+---
+
+# My PDP-T Learning Journey
 
 [![](references/misc/PDP-T-calendar.jpg)](http://www.cdtl.nus.edu.sg/pdp/ "PDP-T calendar")
 
@@ -104,14 +158,14 @@ TPACK, or Technological Pedagogical Content Knowledge, is a model that helps tea
  [![video](http://img.youtube.com/vi/yMQiHJsePOM/0.jpg)](https://youtu.be/yMQiHJsePOM "")
 
 
-## Session 4: January 2019 01 11 (Friday) Preparing for Peer Classroom Observation
+## Session 4: January 2019 02 23 (Saturday) Preparing for Peer Classroom Observation
 
 ### Work in Progress...
 
 ### References
 
 
-## Session 5: March 2019 03 01 (Friday) Improving Assessment Tasks
+## Session 5: March 2019 03 08 (Friday) Improving Assessment Tasks
 
 ### Work in Progress...
 
@@ -125,7 +179,7 @@ TPACK, or Technological Pedagogical Content Knowledge, is a model that helps tea
 ### References
 
 
-## Session 7: May 2019 05 24 (Friday) Developing A Course Portfolio
+## Session 7: May 2019 05 30 (Thursday) Developing A Course Portfolio
 
 ### Work in Progress...
 
@@ -133,7 +187,8 @@ TPACK, or Technological Pedagogical Content Knowledge, is a model that helps tea
 
 
 
-# My Andragogy Teaching Portfolio
+---
+# Institute  for  Adult  Learning  (IAL)  - Adult Education Professionalisation (AEP)
 
 ## Topic 1: Apply Adult Learning Principles in Training
 > **This section discusses application of adult learning principles in training delivery.**
