@@ -16,77 +16,9 @@ PDP-T aims to provide a collegial environment for early career academics to expl
 **zhan.gu@nus.edu.sg**
 
 
-
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
-
 ## My Teaching Philosophy
-`"Teach people, not content."`
+`"Learning for Problem-Solving"`
 
-## My Teaching Framework
-`Andragogy: methods and practices of teaching adult learners; adult education`
-
-[![](https://cdn.elearningindustry.com/wp-content/uploads/2013/05/adult-learning-theory-andragogy.jpg)](https://elearningindustry.com/the-adult-learning-theory-andragogy-of-malcolm-knowles "The adult learning theory andragogy of Malcolm Knowles")
-
-## My Teaching Enabler
-`Blended learning: blend classroom with work and technology`
-
-
-# My Course/Teaching Portfolio
-[ PDP-T Submission ]
-
-## Part 1: Teaching Philosophy
-> **A reflective 'teaching statement' describing your personal teaching philosophy, strategies, and objectives**
-
-### Part 1.1 Core beliefs about teaching and learning
-* What are your beliefs about teaching and your role as a teacher? 
-* How do this belief develop or change in your journey as a teacher?
-* What are your beliefs about learning in the context of your discipline?
-
-### Part 1.2 Goals for student learning
-* What are you preparing students for (i.e. knowledge, skills, values, and attitudes)?
-* What are your beliefs about how student learning in your field occurs?
-
-### Part 1.3 Strategies/methods to enact the goals
-* How do you implement these ideas about teaching and learning in the 
-classroom?
-
-### Part 1.4 Assessment of influence/impact 
-* How do you know students are learning what you want them to learn through your teaching methods/strategies? 
-
-
-## Part 2: Reflective Case Narratives
-> **Approaches to teaching and learning**
-
-E.g. 1 or 2 reflective case narratives on a critical incident or teaching episode which
-* Provides an illustration of how you teach; or
-* Discuss a critical incident or teaching episode sharing growth as a teacher
-
-### Part 2.1
-* Why did you choose the particular approach to teaching?
-
-### Part 2.2
-* What are some valuable sources of information about your teaching on students learning (peer observations, student outcomes, examples of student work, relevant course material, mid-semester feedback, etc.)?
-
-### Part 2.3
-* How do you plan to continue to improve your future teaching practice?
-
-
-## Part 3: Appendices
-> **Include one or more of the following to provide evidence for your teaching philosophy and case narratives.**
-
-* TPI and ATI reports
-* Relevant blogs to support narratives
-* Peer observation forms (completed forms for pre/in/post)
-* Selected survey feedback from students
-* Selected student work
-* Any other relevant evidence
-
----
 
 # My PDP-T Learning Journey
 
@@ -247,6 +179,20 @@ Together, they will help you understand and interpret your profile. Keep in mind
 
 
 ---
+
+## My Teaching Framework
+`Teaching Perspectives Inventory (TPI): Nurturing`
+
+`Andragogy: methods and practices of teaching adult learners; adult education`
+
+[![](https://cdn.elearningindustry.com/wp-content/uploads/2013/05/adult-learning-theory-andragogy.jpg)](https://elearningindustry.com/the-adult-learning-theory-andragogy-of-malcolm-knowles "The adult learning theory andragogy of Malcolm Knowles")
+
+
+## My Teaching Enabler
+`Blended learning: blend classroom with work, gammification and technology`
+
+---
+
 # Institute  for  Adult  Learning  (IAL)  - Adult Education Professionalisation (AEP)
 
 ## Topic 1: Apply Adult Learning Principles in Training
