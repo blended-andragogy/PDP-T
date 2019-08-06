@@ -189,7 +189,7 @@ Together, they will help you understand and interpret your profile. Keep in mind
 
 
 ## My Teaching Enabler
-`Blended learning: blend classroom with work, gammification and technology`
+`Blended learning: blend classroom with work, gamification and technology`
 
 ---
 
